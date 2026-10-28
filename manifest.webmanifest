@@ -1,0 +1,19 @@
+{
+  "name": "차량 견적 비교",
+  "short_name": "견적비교",
+  "description": "신차 견적서를 입력·검산하고 할부/등록비/총 소요비용을 비교하는 오프라인 앱",
+  "lang": "ko",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f6fb",
+  "theme_color": "#1d3f73",
+  "categories": ["finance", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
